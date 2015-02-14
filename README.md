@@ -1,0 +1,2 @@
+# UUIDs
+Mojang/Minecraft API
